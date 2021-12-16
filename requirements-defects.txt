@@ -1,0 +1,18 @@
+Validating Requirements and Uncovering Defects
+You now have a new version of Employee Manager (https://devmountain-qa.github.io/employee-manager-v2/), version 2.0 has a persistent database that you can use to add, edit, save and even delete certain employees! (You’ll likely see some fun employees that have been added by students before you.)
+
+Your job is to validate these new requirements, and write up a new test plan with version 2.0’s requirements.
+
+After creating your test plan you’ll need to create a minimum of 10 tests using different types of testing you’ve used in the past.
+
+Equivalence Partitioning (Boundary Value Analysis)
+
+Decision Table Testing
+
+Function vs. Non-functional testing
+
+High level & Low level tests
+
+Etc…
+
+Report any defects in Trello with a brief explanation of the bug, and exact steps to reproduce the bug, ex:
